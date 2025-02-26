@@ -2,7 +2,9 @@
 
 I am a Business Administrator currently pursuing a Master’s in Data Analytics at Kedge Business School!
 
-- I have background in financial forecasting, business intelligence, and KPI optimization. Skilled in SQL, Python, Power BI, and Machine Learning, with hands-on experience in data visualization, automation, and predictive analytics. 
+- I have background in financial forecasting, business intelligence, and KPI optimization.
+
+- Skilled in SQL, Python, Power BI, and Machine Learning, with hands-on experience in data visualization, automation, and predictive analytics. 
 
 - Passionate about leveraging data-driven insights to drive business growth and efficiency. 
 
