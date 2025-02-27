@@ -15,8 +15,8 @@ I’m a Machine Learning & Data Analytics enthusiast with a background in busine
 - **Other:** Agile (Scrum), Business Intelligence (Tableau, Power BI)  
 
 ## 📂 Featured Projects
-🔹 **[Project Name](https://github.com/yourusername/project-repo)** - Short description (e.g., "Predicting stock trends using LSTMs")  
-🔹 **[Project Name](https://github.com/yourusername/project-repo)** - Short description (e.g., "AI-driven chatbot for customer service")  
+🔹 **[Spotify Playlist](https://github.com/germanebarbosa/Spotify_playlist_builder.git)** - Restoring top of the year playlist for users.  
+🔹 **[L'oreal Descrription Labeling](https://github.com/yourusername/project-repo)** - Short description (e.g., "AI-driven chatbot for customer service")  
 
 ## 📫 Connect with Me
 - LinkedIn: [Germanebarbosa](https://linkedin.com/in/germanebarbosar)  
