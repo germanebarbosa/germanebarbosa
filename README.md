@@ -17,6 +17,7 @@ I’m a Machine Learning & Data Analytics enthusiast with a background in busine
 ## 📂 Featured Projects
 
 🔹 **[L'oreal Description Labeling](https://github.com/yourusername/project-repo)** - Prompt enginering using LLM's to label product descriptions into given categories (L'oreal study case)
+
 🔹 **[Spotify Playlist](https://github.com/germanebarbosa/Spotify_playlist_builder.git)** - Restoring top of the year playlist for users.  
 
 ## 📫 Connect with Me
